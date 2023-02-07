@@ -40,4 +40,4 @@ git push -u origin main
 ```
 
 ---
-*мои конспекты*
+[*мои конспекты*](./README.md)
