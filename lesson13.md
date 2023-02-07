@@ -38,4 +38,6 @@ git remote -v
 ```java
 git push -u origin main
 ```
+
+---
 *мои конспекты*
